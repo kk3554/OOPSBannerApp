@@ -1,3 +1,4 @@
+ feature/UC3-StringJoin
 public class stringjoin{
 
     public static void main(String[] args) {
@@ -21,5 +22,27 @@ public class stringjoin{
         System.out.println(line3);
         System.out.println(line4);
         System.out.println(line5);
+
+ feature/UC2-BannerPrint
+public class OOPSBanner {
+
+    public static void main(String[] args) {
+
+        System.out.println(" *****    *****   ******   ****** ");
+        System.out.println("*     *  *     *  *     *  *      ");
+        System.out.println("*     *  *     *  *     *  *      ");
+        System.out.println("*     *  *     *  ******   ****** ");
+        System.out.println("*     *  *     *  *              *");
+        System.out.println("*     *  *     *  *              *");
+        System.out.println(" *****    *****   *        ****** ");
+
+public class OOPSBannerApp {
+
+    public static void main(String[] args) {
+
+        System.out.println("OOPS");
+
+        main
+ main
     }
 }
