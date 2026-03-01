@@ -1,4 +1,3 @@
-
 public class OOPSArray{
     public static void main(String[] args) {
 
